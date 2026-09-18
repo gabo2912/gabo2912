@@ -4,7 +4,7 @@
 
 ### Data Engineer · Data Analytics & BI · Artificial Intelligence
 
-📍 Lima, Perú ·
+Lima, Perú ·
 [LinkedIn](https://www.linkedin.com/in/gabrielzevallos/) ·
 [gabriel.zevallos@pucp.edu.pe](mailto:gabriel.zevallos@pucp.edu.pe)
 
