@@ -4,7 +4,7 @@
 
 ### Data Engineer · Data Analytics & BI · Artificial Intelligence
 
-📍 Lima, Perú ·
+Lima, Perú ·
 [LinkedIn](https://www.linkedin.com/in/gabrielzevallos/) ·
 [Email](mailto:gabriel.zevallos@pucp.edu.pe)
 
@@ -246,40 +246,6 @@ Web platform for managing space reservations while handling simultaneous request
 `MySQL` ·
 `Docker` ·
 `AWS`
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-[![Gabriel's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabo2912&theme=github-compact&hide_border=true&area=true)](https://github.com/gabo2912)
-
-</div>
-
----
-
-## Education
-
-### 🎓 Pontificia Universidad Católica del Perú
-
-**B.Sc. in Computer Engineering**
-
-`2021 — 2026`
-
-- Top Fifth
-- Artificial Intelligence concentration
-
----
-
-## Certifications
-
-- **Artificial Intelligence Concentration** — Pontificia Universidad Católica del Perú
-- **SQL Base de Datos 2** — Universidad Nacional de Ingeniería
-- **Automating Reports with Python** — Udemy
-- **Advanced English** — Asociación Cultural Peruano Británica
-
----
 
 ## Languages
 
